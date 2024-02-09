@@ -2,8 +2,6 @@
 Implemented semantic segmentation module for COBRA with contour based thresholding. Inference code located in main_notebook.ipynb
 ## Reference
 
-If you find the code or pre-trained models useful, please cite the following papers:
-
 Semantic Understanding of Scenes through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, T. Xiao, S. Fidler, A. Barriuso and A. Torralba. International Journal on Computer Vision (IJCV), 2018. (https://arxiv.org/pdf/1608.05442.pdf)
 
     @article{zhou2018semantic,
