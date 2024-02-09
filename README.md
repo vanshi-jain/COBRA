@@ -1,6 +1,5 @@
 # Semantic segmentation module for COBRA
-Modified code to add end-end fold/ semantic segmentation
-
+Implemented semantic segmentation module for COBRA with contour based thresholding. Inference code located in main_notebook.ipynb
 ## Reference
 
 If you find the code or pre-trained models useful, please cite the following papers:
